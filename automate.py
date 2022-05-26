@@ -11,11 +11,11 @@ from watchdog.events import FileSystemEventHandler
 # ! FILL IN BELOW
 # ? folder to track e.g. Windows: "C:\\Users\\UserName\\Downloads"
 source_dir = "/Users/asifk/Downloads"
-dest_dir_sfx = ""
-dest_dir_music = ""
-dest_dir_video = ""
+dest_dir_sfx = "/Users/asifk/Documents/images"
+dest_dir_music = "/Users/asifk/Documents/images"
+dest_dir_video = "/Users/asifk/Documents/images"
 dest_dir_image = "/Users/asifk/Documents/images"
-dest_dir_documents = ""
+dest_dir_documents = "/Users/asifk/Documents/images"
 
 # ? supported image types
 image_extensions = [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",
